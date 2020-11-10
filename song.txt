@@ -18,4 +18,4 @@ It's in the stars
 It's been written in the scars on our hearts
 We're not broken just bent
 And we can learn to love again
-end
+end.
